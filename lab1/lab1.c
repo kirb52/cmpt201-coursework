@@ -1,3 +1,3 @@
 #include <stdio.h>
 
-int main() {}
+int main() { printf("Hello, Please enter a small sentence"); }
