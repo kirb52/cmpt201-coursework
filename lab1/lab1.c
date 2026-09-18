@@ -7,7 +7,6 @@ int main() {
   char *buffer = NULL;
   // set the buffer to null so getline will set the buffer
   size_t size = 0;
-  // size_t sentence;
   char *token;
   char *saveptr;
 
