@@ -13,7 +13,7 @@ int main() {
 
   printf("Hello, Please enter a small sentence \n");
 
-  // gets the input and saves it to numchar
+  // gets the input and saves it to numchr
   numchar = getline(&buffer, &size, stdin);
 
   // error prevention for the list of char if the getline returns a -1
